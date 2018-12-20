@@ -60,6 +60,7 @@
 - [OdessaJS](http://odessajs.org) - 6-8 July, 2018
 
 ## Museums
+- [Sophia of Kyiv] (https://st-sophia.org.ua/en/home)
 
 ## License
 
